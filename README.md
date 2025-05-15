@@ -10,11 +10,9 @@
     Open your terminal or command prompt and clone the project repository using Git:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/apurvadabholkar35/Customer_Management.git
     cd customer-management
     ```
-
-    *(Replace `<repository_url>` with the actual URL of your Git repository)*
 
 2.  **Build the project:**
 
